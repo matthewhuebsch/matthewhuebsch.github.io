@@ -1,8 +1,7 @@
-title: "Matt H"
-description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
-about: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
-location: "Your Region, Country"
-email: your-email@example.com
+title: "Matthew Huebsch"
+description: "Mass spectrometry. Proteomics. Algorithm evaluation. Data visualization. R."
+location: "Toronto, Canada"
+email: mhuebsch+blog@gmail.com
 baseurl: ""
 
 url: "matthewhuebsch.github.io"
